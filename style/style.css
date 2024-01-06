@@ -40,13 +40,3 @@ body, html{
 hr{
     margin: auto;
 }
-
-#countdown{
-    position: absolute;
-    bottom: 30%;
-    left: 50%;
-    transform: translate(-30%, -50%);
-    text-align: center;
-    font-size: 25px;
-    font-weight: bold;
-}
